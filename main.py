@@ -54,7 +54,7 @@ def get_answer_from_perplexity_ai():
             },
             {
                 "role": "user",
-                "content": "Assume you are god of start-ups. Give me a small but effective idea to generate passive income by doing a website, or an app or an SaaS or an electronics related idea.Your answer should be detailed and should include all steps in order to realize the idea"
+                "content":  "Give me a small but effective idea to generate passive income by doing an ai agent and automation so it will continuously generate some output that will be solving problems of people.Your answer should be detailed and should include all steps in order to realize the idea"
             }
         ],
         "max_tokens": 100,
